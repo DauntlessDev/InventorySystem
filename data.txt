@@ -1,0 +1,8 @@
+Product ID,Name,Price,Description,Quantity,Category,
+431211,Asus Model 2015,10000,Old Model,25,Computer,
+165418,Huawei Matebook,650000,Fast and Slim,140,Laptop,
+763612,Philips N20,6000,Medium Sized Speaker,81,Speaker,
+177926,Project X,15000,Black colored,63,Projector,
+593115,Project X Remote,1000,Black colored remote,63,Remote,
+834342,Razer Mouse 2011,21,None,1,Computer,
+019218,Yababauza,9999,Rare REMOTE,999,Remote,
